@@ -1,6 +1,6 @@
 /// A comprehensive Flutter package for beautiful UI components including
 /// error banners, selection boxes, session dialogs, and more.
-library flutter_ui_kit;
+library flutter_premium_ui;
 
 export 'src/error_banner.dart';
 export 'src/error_message_card.dart';

@@ -1,8 +1,8 @@
-# 🎨 Flutter UI Kit
+# 🎨 Flutter Premium UI
 
 A comprehensive Flutter package for beautiful UI components including error banners, selection boxes, session dialogs, and more.
 
-[![pub package](https://img.shields.io/pub/v/flutter_ui_kit.svg)](https://pub.dev/packages/flutter_ui_kit)
+[![pub package](https://img.shields.io/pub/v/flutter_premium_ui.svg)](https://pub.dev/packages/flutter_premium_ui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Features
@@ -21,7 +21,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_ui_kit: ^1.0.0
+  flutter_premium_ui: ^1.0.0
 ```
 
 Then run:
@@ -33,7 +33,7 @@ flutter pub get
 ## 🚀 Quick Start
 
 ```dart
-import 'package:flutter_ui_kit/flutter_ui_kit.dart';
+import 'package:flutter_premium_ui/flutter_premium_ui.dart';
 
 // Error banner
 ErrorBanner(

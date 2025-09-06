@@ -1,4 +1,4 @@
-name: flutter_ui_kit
+name: flutter_premium_ui
 description: A comprehensive Flutter package for beautiful UI components including error banners, selection boxes, session dialogs, and more.
 version: 1.0.0
 homepage: https://github.com/seifmoustafa/flutter_ui_kit
@@ -11,8 +11,6 @@ topics:
   - widgets
   - components
   - error-handling
-  - dialogs
-  - animations
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
