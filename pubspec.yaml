@@ -1,0 +1,30 @@
+name: flutter_ui_kit
+description: A comprehensive Flutter package for beautiful UI components including error banners, selection boxes, session dialogs, and more.
+version: 1.0.0
+homepage: https://github.com/seifmoustafa/flutter_ui_kit
+repository: https://github.com/seifmoustafa/flutter_ui_kit
+issue_tracker: https://github.com/seifmoustafa/flutter_ui_kit/issues
+documentation: https://github.com/seifmoustafa/flutter_ui_kit#readme
+topics:
+  - flutter
+  - ui
+  - widgets
+  - components
+  - error-handling
+  - dialogs
+  - animations
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
